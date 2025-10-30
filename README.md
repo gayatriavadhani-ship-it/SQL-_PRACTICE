@@ -1,4 +1,4 @@
-# SQL-_PRACTICE
+# SQL_PRACTICE
 I practiced writing SQL queries and learned how to retrieve and analyze employee data.
 I created tables like Employees, Departments, and Salaries — then used JOIN, GROUP BY, and ORDER BY to find top-paid employees, department-wise averages, and hiring trends.
 
